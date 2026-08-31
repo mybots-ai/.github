@@ -25,4 +25,4 @@ We release work when it is ready to be built upon, reproduced, and extended.
 
 For research, collaboration, or contributions:
 
-**[hello@mybots.inc](mailto:hello@mybots.inc)**
+**[hello@mybots.inc](mailto:hello@mybotsinc.com)**
