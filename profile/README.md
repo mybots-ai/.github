@@ -1,5 +1,3 @@
-# mybots
-
 ### Open infrastructure for robots that evolve.
 
 MyBots is building modular robotic systems and the software, models, and interfaces that make them extensible.
