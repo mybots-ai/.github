@@ -1,4 +1,4 @@
-# MyBots
+# mybots
 
 ### Open infrastructure for robots that evolve.
 
